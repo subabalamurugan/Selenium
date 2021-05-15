@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-15T18:48:26 IST" name="Suite" finished-at="2021-05-15T18:49:15 IST" duration-ms="49044">
+    <groups>
+    </groups>
+    <test started-at="2021-05-15T18:48:26 IST" name="Test" finished-at="2021-05-15T18:49:15 IST" duration-ms="49044">
+      <class name="commondp.CreateLead">
+        <test-method is-config="true" signature="setFileName()[pri:0, instance:commondp.CreateLead@661972b0]" started-at="2021-05-15T18:48:26 IST" name="setFileName" finished-at="2021-05-15T18:48:26 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setFileName -->
+        <test-method is-config="true" signature="precondion(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:commondp.CreateLead@661972b0]" started-at="2021-05-15T18:48:27 IST" name="precondion" finished-at="2021-05-15T18:48:37 IST" duration-ms="9988" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://leaftaps.com/opentaps/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[DemoSalesManager]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[crmsfa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondion -->
+        <test-method signature="runcreatelead(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:commondp.CreateLead@661972b0]" started-at="2021-05-15T18:48:37 IST" name="runcreatelead" data-provider="fetchdata" finished-at="2021-05-15T18:48:41 IST" duration-ms="3864" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Csc]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sri]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Ganesh]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runcreatelead -->
+        <test-method is-config="true" signature="postcondition()[pri:0, instance:commondp.CreateLead@661972b0]" started-at="2021-05-15T18:48:41 IST" name="postcondition" finished-at="2021-05-15T18:48:45 IST" duration-ms="4183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postcondition -->
+        <test-method is-config="true" signature="precondion(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:commondp.CreateLead@661972b0]" started-at="2021-05-15T18:48:45 IST" name="precondion" finished-at="2021-05-15T18:48:52 IST" duration-ms="6977" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://leaftaps.com/opentaps/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[DemoSalesManager]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[crmsfa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondion -->
+        <test-method signature="runcreatelead(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:commondp.CreateLead@661972b0]" started-at="2021-05-15T18:48:52 IST" name="runcreatelead" data-provider="fetchdata" finished-at="2021-05-15T18:48:56 IST" duration-ms="3554" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Wipro]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Kavin]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Bala]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runcreatelead -->
+        <test-method is-config="true" signature="postcondition()[pri:0, instance:commondp.CreateLead@661972b0]" started-at="2021-05-15T18:48:56 IST" name="postcondition" finished-at="2021-05-15T18:49:00 IST" duration-ms="4183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postcondition -->
+        <test-method is-config="true" signature="precondion(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:commondp.CreateLead@661972b0]" started-at="2021-05-15T18:49:00 IST" name="precondion" finished-at="2021-05-15T18:49:07 IST" duration-ms="7615" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://leaftaps.com/opentaps/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[DemoSalesManager]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[crmsfa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondion -->
+        <test-method signature="runcreatelead(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:commondp.CreateLead@661972b0]" started-at="2021-05-15T18:49:07 IST" name="runcreatelead" data-provider="fetchdata" finished-at="2021-05-15T18:49:11 IST" duration-ms="3342" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TCS]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Rashmi]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Prasadth]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runcreatelead -->
+        <test-method is-config="true" signature="postcondition()[pri:0, instance:commondp.CreateLead@661972b0]" started-at="2021-05-15T18:49:11 IST" name="postcondition" finished-at="2021-05-15T18:49:15 IST" duration-ms="4160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postcondition -->
+      </class> <!-- commondp.CreateLead -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
