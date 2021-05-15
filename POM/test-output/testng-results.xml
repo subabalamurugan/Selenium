@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-15T17:40:10 IST" name="Default suite" finished-at="2021-05-15T17:40:31 IST" duration-ms="21707">
+    <groups>
+    </groups>
+    <test started-at="2021-05-15T17:40:10 IST" name="Default test" finished-at="2021-05-15T17:40:31 IST" duration-ms="21707">
+      <class name="testcases.Output">
+        <test-method is-config="true" signature="startReport()[pri:0, instance:testcases.Output@799f10e1]" started-at="2021-05-15T17:40:09 IST" name="startReport" finished-at="2021-05-15T17:40:10 IST" duration-ms="325" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method is-config="true" signature="setFileName()[pri:0, instance:testcases.Output@799f10e1]" started-at="2021-05-15T17:40:10 IST" name="setFileName" finished-at="2021-05-15T17:40:10 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setFileName -->
+        <test-method is-config="true" signature="testdetails()[pri:0, instance:testcases.Output@799f10e1]" started-at="2021-05-15T17:40:10 IST" name="testdetails" finished-at="2021-05-15T17:40:10 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testdetails -->
+        <test-method is-config="true" signature="precondion()[pri:0, instance:testcases.Output@799f10e1]" started-at="2021-05-15T17:40:10 IST" name="precondion" finished-at="2021-05-15T17:40:23 IST" duration-ms="12776" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondion -->
+        <test-method signature="runlogin()[pri:0, instance:testcases.Output@799f10e1]" started-at="2021-05-15T17:40:23 IST" name="runlogin" finished-at="2021-05-15T17:40:31 IST" duration-ms="8479" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runlogin -->
+        <test-method is-config="true" signature="postcondition()[pri:0, instance:testcases.Output@799f10e1]" started-at="2021-05-15T17:40:31 IST" name="postcondition" finished-at="2021-05-15T17:40:31 IST" duration-ms="385" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postcondition -->
+        <test-method is-config="true" signature="endReport()[pri:0, instance:testcases.Output@799f10e1]" started-at="2021-05-15T17:40:32 IST" name="endReport" finished-at="2021-05-15T17:40:32 IST" duration-ms="440" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- testcases.Output -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
